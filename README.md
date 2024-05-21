@@ -54,7 +54,7 @@ In your JavaScript files, mark the functions you want to lazy load with the `@la
     }
 
     // @lazy-load
-    export const anotherHeavyFunction() => {
+    export const anotherHeavyFunction = () => {
      // to be be split off into a separate chunk
     }
 ```
