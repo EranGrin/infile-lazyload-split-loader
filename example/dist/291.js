@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksample=self.webpackChunksample||[]).push([[291],{291:(e,s,l)=>{l.r(s),l.d(s,{default:()=>n});const n=()=>{console.log("Component Two Functionality")}}}]);
+//# sourceMappingURL=291.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"291.js","mappings":"4HAAA,aACEA,QAAQC,IAAI,8BACb,C","sources":["webpack://sample/./dist/componentTwo.lazy.js"],"sourcesContent":["export default (() => {\n  console.log(\"Component Two Functionality\");\n});"],"names":["console","log"],"sourceRoot":""}
