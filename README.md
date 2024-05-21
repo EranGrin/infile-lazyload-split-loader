@@ -1,5 +1,5 @@
 # Infile-LazyLoad-Split-Loader
-
+## A Webpack loader for lazy loading functions marked with `@lazy-load
 Infile-LazyLoad-Split-Loader is a Webpack loader designed to enhance your JavaScript projects by automatically splitting and lazily loading functions marked with a `@lazy-load` comment. This approach helps in reducing the initial load time of your applications by splitting off heavy functions into separate chunks that load only when needed.
 
 ## Features
